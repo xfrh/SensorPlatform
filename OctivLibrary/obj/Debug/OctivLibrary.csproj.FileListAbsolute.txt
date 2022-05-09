@@ -1,0 +1,10 @@
+D:\projects\OctivLibrary\bin\Debug\OctivLibrary.dll
+D:\projects\OctivLibrary\bin\Debug\OctivLibrary.pdb
+D:\projects\OctivLibrary\bin\Debug\Code4Bugs.Utils.dll
+D:\projects\OctivLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\projects\OctivLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\projects\OctivLibrary\obj\Debug\OctivLibrary.csproj.CoreCompileInputs.cache
+D:\projects\OctivLibrary\obj\Debug\OctivLibrary.csproj.CopyComplete
+D:\projects\OctivLibrary\obj\Debug\OctivLibrary.dll
+D:\projects\OctivLibrary\obj\Debug\OctivLibrary.pdb
+D:\projects\OctivLibrary\obj\Debug\OctivLibrary.csproj.AssemblyReference.cache

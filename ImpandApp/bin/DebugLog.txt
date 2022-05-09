@@ -1,0 +1,116 @@
+2021/8/12 14:50:14: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 14:51:45: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 14:51:45: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:45: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:46: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:46: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:46: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:46: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:47: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:47: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:47: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:47: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:48: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:48: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:48: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:48: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:49: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:49: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:51:49: ProcessData: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index.
+2021/8/12 14:53:26: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 14:54:17: Iamhere: 11.549.
+2021/8/12 14:54:21: Iamhere: 11.579.
+2021/8/12 14:54:21: Iamhere: 11.510.
+2021/8/12 14:54:43: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 14:57:32: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:01:05: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:01:49: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:06:06: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:07:40: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:08:24: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:09:41: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:10:57: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:22:38: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:24:57: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:26:07: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:28:24: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:29:04: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:37:07: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:38:01: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:39:57: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:41:18: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:43:17: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:54:21: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:55:11: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 15:59:20: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:00:28: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:10:45: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:14:03: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:14:35: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:16:33: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:17:54: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:26:16: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:26:55: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:28:52: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:30:24: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:31:06: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:32:14: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:40:48: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:55:58: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 16:57:39: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 17:00:29: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 17:02:05: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 17:05:08: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/12 17:09:17: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 8:28:31: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 8:38:07: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:10:20: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:13:55: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:15:03: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:16:09: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:23:46: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:25:25: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:47:27: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:48:51: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 9:50:20: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:00:23: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:03:54: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:05:16: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:08:33: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:09:46: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:21:21: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:23:21: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:25:41: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:29:23: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:30:06: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:31:12: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:33:08: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:35:24: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:42:03: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:43:19: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:45:24: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:48:29: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:49:18: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:50:09: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 10:52:12: sensorserive getdata创建窗口句柄时出错。.
+2021/8/13 10:52:38: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 11:36:11: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 13:01:23: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
+2021/8/13 13:25:21: modbus setpower:引发类型为“Code4Bugs.Utils.IO.EmptyResponsedException”的异常。.
